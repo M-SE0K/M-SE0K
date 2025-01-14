@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**seg7577/seg7577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📁Overview
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seg7577)](https://solved.ac/seg7577/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seg7577&hide=jupyter+notebook&layout=compact&theme=blue-green)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📁Programming Languages
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
+  <img src = "https://img.shields.io/badge/java-blue?style=for-the-badge"/></a>
+  <img src = "https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+## 📁 Tech Stack
+  <img src = "https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 -->
