@@ -3,6 +3,7 @@
 ## 📁Overview
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seg7577)](https://solved.ac/seg7577/)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SE0K&hide=jupyter+notebook&layout=compact&theme=blue-green)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SE0K&hide_progress=true)
 
 
 ## 📁Programming Languages
