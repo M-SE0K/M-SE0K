@@ -5,4 +5,4 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SE0K&hide=html,css,jupyter%20notebook&layout=donut)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SE0K&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SE0K&hide=html,cssjupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
